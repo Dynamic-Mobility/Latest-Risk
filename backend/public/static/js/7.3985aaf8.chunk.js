@@ -1,0 +1,2 @@
+(this["webpackJsonprisk-solve"]=this["webpackJsonprisk-solve"]||[]).push([[7],{1870:function(s,e,t){"use strict";var a=t(0),c=t(132);e.a=Object(c.a)(a.createElement("path",{d:"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"}),"Close")}}]);
+//# sourceMappingURL=7.3985aaf8.chunk.js.map

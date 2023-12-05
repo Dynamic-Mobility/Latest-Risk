@@ -1,0 +1,18 @@
+[
+    { x: 0, y: 0, value: 3, color: "green" },
+    { x: 0, y: 1, value: 2, color: "green" },
+    { x: 0, y: 2, value: 1, color: "green" },
+    { x: 0, y: 3, value: 0, color: "green" },
+    { x: 1, y: 0, value: 2, color: "green" },
+    { x: 1, y: 1, value: 4, color: "yellow" },
+    { x: 1, y: 2, value: 3, color: "yellow" },
+    { x: 1, y: 3, value: 1, color: "orange" },
+    { x: 2, y: 0, value: 1, color: "yellow" },
+    { x: 2, y: 1, value: 3, color: "yellow" },
+    { x: 2, y: 2, value: 4, color: "orange" },
+    { x: 2, y: 3, value: 2, color: "red" },
+    { x: 3, y: 0, value: 0, color: "orange" },
+    { x: 3, y: 1, value: 1, color: "orange" },
+    { x: 3, y: 2, value: 2, color: "red" },
+    { x: 3, y: 3, value: 3, color: "red" },
+  ]
